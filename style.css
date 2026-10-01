@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+    text-align: center;
+}
+body {
+    background-color: #ffdefd !important;
+    color: #ff2a4a !important;
+}       
+h1 {
+    text-align: center;
+}
+.bemutatas {
+    text-align: left;
+    margin: 70px;
+}
+.tortenete {
+    margin: 70px;
+}
+.uzletek {
+    margin: 70px;
+}
+a {
+    color: #ff2a4a !important;
+}
+.right {
+    float: right;
+    margin-left: 20px;
+}
+
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #ffdefd;
+    color: #ff2a4a;
+}
+footer {
+    text-align: left;
+    margin-top: 20px;
+    background-color: #ff2a4a;
+    color: #ffdefd;
+}
